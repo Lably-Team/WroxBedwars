@@ -1,0 +1,8 @@
+name: WroxBedwars
+version: BETA 0.0.1
+main: me.bryang.pluginmodel.WroxBedwars
+api-version: 1.17
+
+commands:
+  bedwars:
+    description: Main command.
